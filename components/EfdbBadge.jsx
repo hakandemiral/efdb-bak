@@ -3,7 +3,7 @@ import { styled } from "stitches.config";
 import { Logo } from "components";
 
 const EfdbBadge = ({ rating, ...props }) => (
-  <StyledEfdbBadge {...props}>
+  <StyledEfdbBadge className="efdbBadge" {...props}>
     <Logo />
     <span className="rating">{rating}</span>
   </StyledEfdbBadge>

@@ -73,5 +73,11 @@ export const { styled, css, globalCss, theme } = createStitches({
       backgroundClip: "text",
       textFillColor: "transparent",
     }),
+    lineLimit: (limit) => ({
+      overflow: "hidden",
+      display: "-webkit-box",
+      "-webkit-line-clamp": limit,
+      "-webkit-box-orient": "vertical",
+    }),
   },
 });
