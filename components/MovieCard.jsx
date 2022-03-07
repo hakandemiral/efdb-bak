@@ -29,11 +29,11 @@ const MovieCard = () => {
             </span>
             <span className="etc-details">2021 · PG-18 · 1sa. 32dk.</span>
             <span className="synopsis">
-              Yeni Dünya'ya giden yıldızlararası bir gemideki genç bir tamirci,
-              uzay gemisini bir silah olarak kullanarak kötü niyetli kozmik bir
-              terörün üstesinden gelmek zorundadır. Yeni Dünya'ya giden
-              yıldızlararası biryıldızlararası biryıldızlararası
-              biryıldızlararası
+              Yeni Dünya&apos;ya giden yıldızlararası bir gemideki genç bir
+              tamirci, uzay gemisini bir silah olarak kullanarak kötü niyetli
+              kozmik bir terörün üstesinden gelmek zorundadır. Yeni
+              Dünya&apos;ya giden yıldızlararası biryıldızlararası
+              biryıldızlararası biryıldızlararası
             </span>
             <span className="cast">
               <span className="title">Yönetmen: </span>
@@ -42,7 +42,7 @@ const MovieCard = () => {
             <span className="cast">
               <span className="title">Başroldekiler: </span>
               <span className="names">
-                Patrick Wilson, Vera Farmiga, Ruairi O'Connor
+                Patrick Wilson, Vera Farmiga, Ruairi O&apos;Connor
               </span>
             </span>
             <span className="tags">
